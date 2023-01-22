@@ -2,3 +2,4 @@ This is the test file to check Git status
 new changes
 to test
 
+This is the new update from Master branch
